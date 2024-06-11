@@ -1,7 +1,7 @@
 {
     "name": "TheBoys",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/Sketaful/Sketaful-s-Valheim-Adventure-Modpack",
+    "website_url": "https://github.com/heroes42/TheBoys",
     "description": "HEY YOU! CRUNCH INTO SOMETHING NEW!",
     "dependencies": [
         "Advize-PlantEverything-1.18.1",
